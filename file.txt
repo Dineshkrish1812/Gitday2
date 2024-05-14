@@ -1,4 +1,8 @@
 one
 
+<<<<<<< HEAD
 
 this is second changes
+=======
+this is second developer changes
+>>>>>>> developer
